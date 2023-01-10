@@ -1,2 +1,2 @@
 # ListasJailsonJava
-Lista proposta pelo professor Jailson e feita utilizando da linaguagem java
+Lista proposta pelo professor Jailson e feita utilizando da linguagem java
